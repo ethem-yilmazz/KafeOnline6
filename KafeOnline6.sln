@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafeOnline6", "KafeOnline6\KafeOnline6.csproj", "{FFAE4F78-7C12-4D63-9FCE-5DF73BE64694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafeOnline6.Data", "KafeOnline6.Data\KafeOnline6.Data.csproj", "{59BE0698-271B-41BD-B794-21D53F458BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFAE4F78-7C12-4D63-9FCE-5DF73BE64694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAE4F78-7C12-4D63-9FCE-5DF73BE64694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAE4F78-7C12-4D63-9FCE-5DF73BE64694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAE4F78-7C12-4D63-9FCE-5DF73BE64694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59BE0698-271B-41BD-B794-21D53F458BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BE0698-271B-41BD-B794-21D53F458BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BE0698-271B-41BD-B794-21D53F458BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BE0698-271B-41BD-B794-21D53F458BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B1FA175-F305-4DC1-BDF5-34151407E0E3}
+	EndGlobalSection
+EndGlobal
